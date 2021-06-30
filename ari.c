@@ -1,3 +1,10 @@
+#include <stdio.h>
+#include <assert.h>
+#include <string.h>
+#include <cs50.h>
+#include <ctype.h>
+
+
 typedef struct {
    int score;
    string age;
